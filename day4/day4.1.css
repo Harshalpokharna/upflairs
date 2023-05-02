@@ -1,0 +1,27 @@
+body{
+    background-color: antiquewhite;
+}
+#special{
+    background-color: cornflowerblue;
+}
+img{
+    width: 150px;
+    height: 150px;
+    /* border-radius: 100%; */
+}
+.apple:hover{
+      background-color:darkseagreen ;
+}
+.circular{
+    border-radius: 100%;
+}
+
+p{
+    color: rgb(11, 12, 12);
+}
+.first_para{
+    color: blue;
+}
+.image{
+    background-color: chartreuse;
+}
